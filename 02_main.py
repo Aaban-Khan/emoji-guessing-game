@@ -68,6 +68,7 @@ while True:
         emoji, meaning = random.choice(list(emoji_dict.items()))
 
 
+
 # git init
 # git add .
 # git commit -m "first commit"
