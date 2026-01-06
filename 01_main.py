@@ -1,6 +1,7 @@
 import random 
 import pygame
 
+
 def play_sound(file):
     pygame.mixer.init()
     pygame.mixer.music.load(file)
