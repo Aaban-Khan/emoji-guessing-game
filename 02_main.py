@@ -3,6 +3,7 @@ import pygame
 from inputimeout import inputimeout, TimeoutOccurred
 import os
 
+
 pygame.mixer.init()
 
 def play_sound(file):
